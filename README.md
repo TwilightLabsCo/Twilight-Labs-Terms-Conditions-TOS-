@@ -151,3 +151,5 @@ If you have any questions, feedback, or concerns regarding these Terms, please c
 ---
 
 ### By using the Services, you confirm that you have read, understood, and agree to be bound by these Terms of Service.
+
+Our company, its partners, and affiliated products or services are not intended for customers in the United States (US) or the United Kingdom (UK). Please inform us if you are located in one of these countries so we can assist you appropriately.
