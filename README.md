@@ -21,7 +21,7 @@ We reserve the right to monitor activity and take appropriate action against mis
 ---
 
 ## 2. Eligibility
-You must be **13 years or older** (or the age of majority in your jurisdiction) to use our Services.  
+You must be **18 years or older** (or the age of majority in your jurisdiction) to use our Services.  
 If you are using the Services on behalf of a business or organization, you represent that you have the authority to bind that entity to this Agreement.
 
 ---
